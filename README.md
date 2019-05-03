@@ -7,13 +7,10 @@ Grid system of Bootstrap 4.0.0 as React components.
 
 ### Props
 
-full
-- type: boolean
-- set the width to 100%
-
-className
-- type: string
-- add classes to div
+| Props | Description |
+| ------ | ------ |
+| full | (Boolean) Set the width to 100% |
+| className | (String) Add classes to div |
 
 ## Row
 
